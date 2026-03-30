@@ -1,11 +1,32 @@
 #!/usr/bin/env python3
 
-name = input("enter your name:")
+import argparse
 
-print ("hello world")
-print ('hello world')
+###------------- accept and parse command line arguments
+# create an argument parser object
+parser = argparse.ArgumentParser(description="This script calculates the number at a given position \
+                                 in the Fibonacci sequence")
 
-print ("hello, ", name, "I hope yoy have a nice day")
+# add a positional argument, in this case, the position in the Fibonacci sequence
+parser.add_argument("position", help="Position in the Fibonacci sequence", type=int)
 
-#some math
-print (7+7)
+#an optional argument for verbose output or not
+#if 'store true', this means assign 'True' if the optional argument is specified
+#on the command line, so the default for "store true" is actuallt false
+parser.add_argument("-v", "--verbose", help="Print vebose output", action='store_true')
+
+# parse the arguments
+args = parser.parse_args()
+
+# initialize two integers
+a,b = 0,1
+
+for i in range(int(args.position)):
+    a,b = b,a+b
+
+fibonacci_number = a
+
+if args.verbose:
+    print(f"The Fibonacci number for {args.position} is {fibonacci_number}.")
+else:
+    print(fibonacci_number)
