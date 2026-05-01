@@ -25,6 +25,7 @@ Thesis: *Assessment of land use land cover dynamics and driving factors of water
 ---
 
 ## Refereed Publications
+- (Google Scholar: citations: 349, h-index: 12, and i10-index: 13)
 
 - Miya, M. S., Shrestha, S., Dhakal, A., et al. Seasonal variation of forest butterfly diversity in tropical lowland Nepal. *Ecology & Evolution*, 15(6), e71550.
 - Chhetri, A. & Miya, M. S. Diversity and Seasonal Abundance of Dragonflies and Damselflies in the Lake Cluster of Pokhara Valley, Nepal. *Psyche: A Journal of Entomology*, 2025, 9368532.
@@ -37,10 +38,10 @@ Thesis: *Assessment of land use land cover dynamics and driving factors of water
 ## Experience
 
 **Senior Research Assistant** — Department of Entomology and Plant Pathology, University of Arkansas (Jan –Now 2026)  
-Leading research projects on phylogenetic comparative methods and plant genome assembly.
+- Leading research projects on phylogenetic comparative methods and plant genome assembly.
 
 **Research Assistant** — Department of Entomology and Plant Pathology, University of Arkansas (Sept–Dec 2025)
-Led research projects on phylogenetic comparative methods and plant genome assembly.
+- Led research projects on phylogenetic comparative methods and plant genome assembly.
 
 **Research Assistant** — Systematics and Evolution Lab, Biotechnology Center, Department of Biology, WKU, KY, USA (Jan, May, June 2024)  
 - Studied myrmecophilous spider beetles of Australia  
