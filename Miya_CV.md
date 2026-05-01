@@ -4,9 +4,7 @@
 **Department of Entomology and Plant Pathology**  
 University of Arkansas  
 Fayetteville, AR 72701, USA  
-+1 270-599-9790  
-- Email: sayabmiya13@gmail.com  
-- Email: mmiya@uark.edu
++1 270-599-9790; mmiya@uark.edu
 
 ---
 
@@ -28,22 +26,27 @@ Thesis: *Assessment of land use land cover dynamics and driving factors of water
 
 ## Refereed Publications
 
-- Miya, M. S., Shrestha, S., Dhakal, A., et al. Seasonal variation of forest butterfly diversity in tropical lowland Nepal. *Ecology & Evolution*, **15**(6), e71550. https://doi.org/10.1002/ece3.71550
+- Miya, M. S., Shrestha, S., Dhakal, A., et al. Seasonal variation of forest butterfly diversity in tropical lowland Nepal. *Ecology & Evolution*, 15(6), e71550.
+- Chhetri, A. & Miya, M. S. Diversity and Seasonal Abundance of Dragonflies and Damselflies in the Lake Cluster of Pokhara Valley, Nepal. *Psyche: A Journal of Entomology*, 2025, 9368532.
+- Miya, M. S., Chhetri, A., Gautam, D., & Omifolaji, J. Diversity and abundance of Butterflies (Lepidoptera) in Byas Municipality of the Tanahun district, Nepal. *Journal of Crop Protection*, 10(4), 685-700.
+- Miya, M. S., Gautam, D., Neupane, B., & Chhetri, A. Species diversity and abundance of Odonata in Sishaghat of Tanahun district, Nepal. *Journal of Animal Diversity*, 3(3), 45-55.
+- Miya, M. S., & Gautam, D. Checklist of floral species at the Institute of Forestry, Pokhara Campus, Pokhara, Nepal. *Forestry: Journal of Institute of Forestry, Nepal*, 18, 133-177.
 
 ---
 
 ## Experience
 
-**Senior Research Assistant** — University of Arkansas (Jan–Nov 2025)  
+**Senior Research Assistant** — Department of Entomology and Plant Pathology, University of Arkansas (Jan –Now 2026)  
 Leading research projects on phylogenetic comparative methods and plant genome assembly.
 
-**Research Assistant** — University of Arkansas (Sept–Dec 2025)
+**Research Assistant** — Department of Entomology and Plant Pathology, University of Arkansas (Sept–Dec 2025)
+Led research projects on phylogenetic comparative methods and plant genome assembly.
 
-**Research Assistant** — WKU Systematics & Evolution Lab (Jan, May, June 2024)  
+**Research Assistant** — Systematics and Evolution Lab, Biotechnology Center, Department of Biology, WKU, KY, USA (Jan, May, June 2024)  
 - Studied myrmecophilous spider beetles of Australia  
 - DNA extraction, PCR, gel electrophoresis
 
-**Graduate Teaching Assistant** — WKU (2023–2025)  
+**Graduate Teaching Assistant** — Department of Biology, WKU, KY, USA (2023–2025)  
 - Taught Animal Biology and Diversity Lab  
 - Designed quizzes, exams, and lab materials
 
@@ -52,10 +55,13 @@ Leading research projects on phylogenetic comparative methods and plant genome a
 ## Presentations
 
 - **2026** – Agriculture, Food and Life Science Poster Symposium, University of Arkansas  
-  *De novo genome assembly of horsetail milkweed* _Asclepias subverticillata_
+ A high-quality de novo genome assembly of horsetail milkweed *Asclepias subverticillata* (A. Gray) Vail
 
 - **2025** – Mammoth Cave National Park Research Symposium  
-  *Phylogeography of* _Neaphaenops tellkampfii_
+  A phylogeographic study of the Kentucky endemic cave beetle *N. tellkampfii* Erichson (1844). (Talk, May 14).
+  
+- **2024** – Entomological Society of America Meeting, Phoenix, AZ, USA.
+  A phylogeographic study of the Kentucky endemic cave beetle *N. tellkampfii* Erichson (1844). (Talk, Nov 11).
 
 ---
 
@@ -97,4 +103,17 @@ English, Nepali, Hindi, Urdu (R/W), Arabic (R/W)
 
 ## References
 
-Available upon request.
+Dr. Rich Adams
+Assistant Professor, Department of Entomology and Plant Pathology,
+University of Arkansas, Fayetteville, AR 72701, USA
+Email: adamsrh@uark.edu; Contact: +1 479-575-2445
+
+Dr. T. Keith Philips
+Professor, Department of Biology, Western Kentucky University
+1906 College Heights Blvd., Bowling Green, KY 42101, USA
+Email: keith.philips@wku.edu; Contact: +1 270-438-2244
+
+Dr. Deepak Gautam
+Assistant Professor, Department of Social Forestry and Forest Management 
+Institute of Forestry, Tribhuvan University, Pokhara, Nepal
+Email: deepakgautamiof@gmail.com; Contact: +977-9846278908
